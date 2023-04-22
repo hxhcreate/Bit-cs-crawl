@@ -22,7 +22,7 @@ json template structure as follows
                 "社会兼职": "",
                 "备注": ""
         },
-]
+       ]
 }
 
 ```
