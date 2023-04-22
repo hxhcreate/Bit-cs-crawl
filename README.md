@@ -4,6 +4,7 @@ crawl all the teachers' info at the CS school of BIT
 `teacher_info.json` updated in 2023 Spring
 json template structure as follows
 ```json
+{
 "<层次>":[
        {
         "姓名": "",
@@ -22,6 +23,7 @@ json template structure as follows
                 "备注": ""
         },
 ]
+}
 
 ```
 
